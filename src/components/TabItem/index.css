@@ -1,0 +1,23 @@
+.tab-item {
+  list-style-type: none;
+}
+
+.button {
+  height: 40px;
+  width: 60px;
+  margin: 3px;
+  font-family: 'Bree Serif';
+  font-size: 16px;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  border-bottom: 2px solid #dfe2e5;
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+}
+.active {
+  color: #2563eb;
+  border-bottom: 2px solid #2563eb;
+  padding-bottom: 8px;
+}
